@@ -2,4 +2,4 @@
  
 clear
 ls -l -a
-echo "Working"
+echo "Working polling is up and running"
